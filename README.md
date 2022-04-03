@@ -6,6 +6,9 @@ Mon projet est un motus. Le but est de trouver le mot en un minimum de coups san
 sous probleme : dictionnaire mot fr
                 mot mystere aleatoire dans le dico
                 fond + cadre
+                position des lettres
+                couleur des lettres
+                verificatio n que les lettres du mot rentré sont dans le mot recherc h 
                 
                 
                 
