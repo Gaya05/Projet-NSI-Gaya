@@ -8,7 +8,7 @@ sous probleme : dictionnaire mot fr
                 fond + cadre
                 position des lettres
                 couleur des lettres
-                verificatio n que les lettres du mot rentré sont dans le mot recherc h 
+                verificatio n que les lettres du mot rentré sont dans le mot recherc h
                 
                 
                 
