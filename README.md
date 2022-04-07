@@ -17,6 +17,7 @@ def mot_mystere
 def tableau
 def position_lettres
 def couleur_lettre
+def résultat
                 
                 
                 
