@@ -8,7 +8,11 @@ sous probleme : dictionnaire mot fr
                 fond + cadre
                 position des lettres
                 couleur des lettres
-                verificatio n que les lettres du mot rentré sont dans le mot recherc h
+                verification que les lettres du mot rentré sont dans le mot recherché 
+
+MVP : interface graphique 
+           Moyen de différencier les lettres qui sont dans le mot recherché et celles qui n’y sont pas . Mot mystère donné à la fin du jeu si l’utilisateur n’a pas trouvé le mot.
+
                 
                 
                 
