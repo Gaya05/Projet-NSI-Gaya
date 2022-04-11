@@ -19,7 +19,15 @@ def position_lettres
 def couleur_lettre
 def résultat
                 
-                
+cahier journal :  
+   difficulté a utiliser les mots d'un document texte.
+   
+   
+organisation répertoire :  
+
+fichier avec à l'intérieur le code et un document texte avec un dictionnaire fr à l'intérieur.
+   
+  
                 
                 
                 
