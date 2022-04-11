@@ -11,7 +11,8 @@ sous probleme : dictionnaire mot fr
                 verification que les lettres du mot rentré sont dans le mot recherché   
 
 MVP : interface graphique; 
-           Moyen de différencier les lettres qui sont dans le mot recherché et celles qui n’y sont pas . Mot mystère donné à la fin du jeu si l’utilisateur n’a pas trouvé le mot.
+           Moyen de différencier les lettres qui sont dans le mot recherché et celles qui n’y sont pas . 
+           Mot mystère donné à la fin du jeu si l’utilisateur n’a pas trouvé le mot.
 
 def mot_mystere
 def tableau
