@@ -21,8 +21,9 @@ def couleur_lettre
 def résultat  
                 
 cahier journal :  
-    difficulté à récupérer les mots d'un document texte. 
-    nombre de lettre = 8  
+    difficulté: à récupérer les mots d'un document texte.  
+                nombre de lettre pour mot aleatoire = 8  
+                moyen de différencier les lettres au bonne endroit/les lettres au mauvaise endroit/les lettres pas dans le mot  
      
    
    
