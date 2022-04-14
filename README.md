@@ -21,7 +21,9 @@ def couleur_lettre
 def résultat  
                 
 cahier journal :  
-   jour 1 : difficulté à récupérer les mots d'un document texte.  
+    difficulté à récupérer les mots d'un document texte. 
+    nombre de lettre = 8  
+     
    
    
    
