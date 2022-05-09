@@ -23,7 +23,7 @@ cahier journal :
     difficulté: à récupérer les mots d'un document texte.  
                 nombre de lettre pour mot aleatoire = 8  
                 différencier les lettres au bonne endroit/les lettres au mauvaise endroit/les lettres pas dans le mot  
-                interface grafiqu  
+                interface grafique  
      
    
    
