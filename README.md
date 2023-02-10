@@ -16,7 +16,7 @@ def position_lettres
 def résultat  
 
 amélioration: adaptation de la grille en fonction de la taille du mot
-uniquement les mots du doc txt sont autoriser a etre ecrit
+  uniquement les mots du doc txt sont autoriser a etre ecrit
                 
    
 
