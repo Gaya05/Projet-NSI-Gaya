@@ -14,6 +14,8 @@ def mot_mystere
 def tableau  
 def position_lettres    
 def résultat  
+
+amélioration: adaptation de la grille en fonction de la taille du mot
                 
    
 
